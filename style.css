@@ -74,7 +74,7 @@ body
 {
    margin: 0; 
    height: 100%; 
-   overflow: hidden
+   overflow: hidden;
 }
 
 .robjack
@@ -91,7 +91,7 @@ body
 .menue 
 {
    width: 100%;
-   padding: 2vw 0 0 5vw;
+   padding: 2vw 5vw 0 5vw;
    margin: auto;
 }
 
